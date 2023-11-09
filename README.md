@@ -132,7 +132,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![Alt text](<prasana/slotapp/static/Screenshot (8).png>)
+![Screenshot (8)](https://github.com/Prasanavausdevan/slot/assets/144870579/9fa89a0f-8303-45f2-bb54-4dd37a6c2533)
+
 
 
 ## RESULT
